@@ -14,11 +14,6 @@
 
 <body>
   <main>
-
-    <!--
-      - #SIDEBAR
-    -->
-
     <aside class="sidebar" data-sidebar>
 
       <div class="sidebar-info">
